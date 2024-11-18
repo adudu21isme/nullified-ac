@@ -17,4 +17,4 @@ https://www.roblox.com/games/17276569867/Push-a-Friend-2-Player-Obby
 
 #### Removed Detections: Infinite Jump, [ REDACTED ], Mod Menu's, getgenv environment leak, CoreGui Checker, etc
 
-##### [After UserId "1526227314" are users who got banned by Nullified-AC, Note that not all bans are listed. it is "up to date" as of 11/17/2024](https://github.com/adudu21isme/exploiterlist/)
+##### [After UserId "7400532080" are users who got banned by Nullified-AC, Note that not all bans are listed. it is "up to date" as of 11/17/2024](https://github.com/adudu21isme/exploiterlist/)
