@@ -13,6 +13,6 @@ https://www.roblox.com/games/17276569867/Push-a-Friend-2-Player-Obby
 
 ![Icon Of Roblox Game Called Push A Friend made by VMW Studios](https://github.com/user-attachments/assets/a90f6b24-a34e-468c-ac1a-bef334e868b5)
 
-### Noted: WalkSpeed, JumpPower, Fly, CFrameFly, Noclip, PlatformStand, Fling, Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker
+### Noted: WalkSpeed, JumpPower, Fly, CFrameFly, Noclip, PlatformStand, Float (part), Fling, Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker
 
 #### Removed Detections: Infinite Jump, Mod Menu's, getgenv environment leak, CoreGui Checker, etc
