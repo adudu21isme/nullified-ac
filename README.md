@@ -15,4 +15,4 @@ https://www.roblox.com/games/17276569867/Push-a-Friend-2-Player-Obby
 
 ### Noted: WalkSpeed, JumpPower, Fly, CFrameFly, Noclip, PlatformStand, Float (part), Fling (object), Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker
 
-#### Removed Detections: Infinite Jump, Mod Menu's, getgenv environment leak, CoreGui Checker, etc
+#### Removed Detections: Teleport, Infinite Jump, Mod Menu's, getgenv environment leak, CoreGui Checker, etc
