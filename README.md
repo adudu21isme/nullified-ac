@@ -1,4 +1,4 @@
-# ❗The anti-cheat is currently being made as client and serversided, so this will no longer be a full clientside anticheat! Infinite jump (garbage version) and teleportion will be detected
+# ❗Some removed detections are currently being readded, this message will be removed once it is added.
 
 # Nullified-AC (created by adudu21)
 ## *"Advanced" client anti-cheat for roblox games with false positives being almost close to zero.*
