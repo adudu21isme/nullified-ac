@@ -1,5 +1,5 @@
 # Nullified-AC (created by adudu21)
-## *"Advanced" client and serversided anti-cheat for roblox games with false positives being almost close to zero.*
+## Client and serversided anti-cheat for roblox games with false positives being almost close to zero.*
 
 There are versions of this anti-cheat which contains different detections.
 
