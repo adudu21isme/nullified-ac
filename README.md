@@ -7,7 +7,7 @@ There are versions of this anti-cheat which contains different detections.
 
 **All detections of the anti-cheat may not be listed.**
 
-# Listed games:
+# Listed games (only popular are listed):
 ## Push A Friend
 https://www.roblox.com/games/17276569867/Push-a-Friend-2-Player-Obby
 
