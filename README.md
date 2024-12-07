@@ -15,6 +15,8 @@ https://www.roblox.com/games/17276569867/Push-a-Friend-2-Player-Obby
 
 ### Noted: WalkSpeed, JumpPower, JumpHeight, Swimming, Fly, CFrameFly, HipHeight, Noclip, PlatformStand, Float (part), Fling (object), Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker, Teleport (weaken because of how game works), Infinite Jump (IY), Reset velocity
 
+#### This game is also protected by ruben's sim list.
+
 ## 5 robux = 5 noob
 https://www.roblox.com/games/84949966061623/5-robux-5-noob
 
