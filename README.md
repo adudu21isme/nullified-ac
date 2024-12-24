@@ -29,6 +29,6 @@ https://www.roblox.com/games/84949966061623/5-robux-5-noob
 
 ![Icon OF Roblox Game Called Spend 5 ROBUX = SPAWN 5 NOOBS](https://github.com/user-attachments/assets/fbd0792a-1713-45bb-9c9d-106ae831f246)
 
-### Noted: WalkSpeed, JumpPower, JumpHeight, Swimming, Fly, CFrameFly, Noclip, PlatformStand, Float (part), Fling (object), Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker, Infinite Jump (weaken, IY), Btools (IY), Reset velocity
+### Noted: WalkSpeed, JumpPower, JumpHeight, Fly, CFrameFly, Noclip, PlatformStand, Float (part), Fling (object), Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker, Infinite Jump (weaken, IY), Btools (IY), Reset velocity
 
 **ℹ️NOTE: 5 ROBUX = 5 NOOB USES A WEAKEN VERSION OF NULLIFIED AC (WEAKEN-Nullified-AC) WHICH INCLUDES CERTAIN DETECTIONS BEING REMOVED.**
