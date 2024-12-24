@@ -22,7 +22,7 @@ https://www.roblox.com/games/84949966061623/5-robux-5-noob
 
 ![Icon OF Roblox Game Called Spend 5 ROBUX = SPAWN 5 NOOBS](https://github.com/user-attachments/assets/fbd0792a-1713-45bb-9c9d-106ae831f246)
 
-### Noted: WalkSpeed, JumpPower, JumpHeight, Fly, CFrameFly, Noclip, PlatformStand, Float (part), Fling (object), Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker, Infinite Jump (IY, weaken), Reset velocity
+### Noted: WalkSpeed, JumpPower, JumpHeight, Swimming, Fly, CFrameFly, Noclip, PlatformStand, Float (part), Fling (object), Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker, Infinite Jump (IY, weaken), Btools (IY), Reset velocity
 
 **ℹ️NOTE: 5 ROBUX = 5 NOOB USES A WEAKEN VERSION OF NULLIFIED AC (WEAKEN-Nullified-AC) WHICH INCLUDES CERTAIN DETECTIONS BEING REMOVED.**
 
@@ -31,6 +31,6 @@ https://www.roblox.com/games/15605594861/Silly-Donations
 
 ![Icon Of Roblox Game Called Silly Donations made by S1lly Productions](https://github.com/user-attachments/assets/ee6c3579-6d8a-42d4-9c8a-8a13bc4d8026)
 
-### Noted: WalkSpeed, JumpPower, JumpHeight, Fly, CFrameFly, Noclip, PlatformStand, Fling (object), Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker, Infinite Jump (IY, extremely weaken), Reset velocity
+### Noted: WalkSpeed, JumpPower, JumpHeight, Swimming, Fly, CFrameFly, Noclip, PlatformStand, Float (part), Fling (object), Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker, Infinite Jump (IY), Btools (IY), Reset velocity
 
-**❗IMPORTANT NOTE: SILLY DONATIONS USES A BAD VERSION OF NULLIFIED AC (W-Nullified-AC-S-BY-V) AKA "WEAKEN-NULLIFIED-ANTICHEAT-SPECIAL-BYPASS-VERSION" WHICH INCLUDES BYPASSES AND CERTAIN DETECTIONS BEING REMOVED.**
+**ℹ️NOTE: SILLY DONATIONS USES A WEAKEN BYPASSABLE VERSION OF NULLIFIED AC (WEAKEN-BYPASSABLE-Nullified-AC) WHICH INCLUDES CERTAIN DETECTIONS BEING REMOVED AND IT BEING BYPASSABLE.**
