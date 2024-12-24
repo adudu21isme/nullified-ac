@@ -33,4 +33,4 @@ https://www.roblox.com/games/15605594861/Silly-Donations
 
 ### Noted: WalkSpeed, JumpPower, JumpHeight, Swimming, Fly, CFrameFly, Noclip, PlatformStand, Float (part), Fling (object), Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker, Infinite Jump (IY), Btools (IY), Reset velocity
 
-**ℹ️NOTE: SILLY DONATIONS USES A WEAKEN BYPASSABLE VERSION OF NULLIFIED AC (WEAKEN-BYPASSABLE-Nullified-AC) WHICH INCLUDES CERTAIN DETECTIONS BEING REMOVED AND IT BEING BYPASSABLE.**
+**❗: SILLY DONATIONS USES A WEAKEN BYPASSABLE VERSION OF NULLIFIED AC (WEAKEN-BYPASSABLE-Nullified-AC) WHICH INCLUDES CERTAIN DETECTIONS BEING REMOVED AND IT BEING BYPASSABLE.**
