@@ -24,7 +24,7 @@ https://www.roblox.com/games/84949966061623/5-robux-5-noob
 
 ### Noted: WalkSpeed, JumpPower, JumpHeight, Fly, CFrameFly, Noclip, PlatformStand, Float (part), Fling (object), Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker, Infinite Jump (IY, weaken), Reset velocity
 
-**ℹ️NOTE: 5 ROBUX = 5 NOOB USES A WEAKEN VERSION OF NULLIFIED AC (W-Nullified-AC) AKA "WEAKEN-NULLIFIED-ANTICHEAT" WHICH INCLUDES CERTAIN DETECTIONS BEING REMOVED.**
+**ℹ️NOTE: 5 ROBUX = 5 NOOB USES A WEAKEN VERSION OF NULLIFIED AC (WEAKEN-Nullified-AC) WHICH INCLUDES CERTAIN DETECTIONS BEING REMOVED.**
 
 ## Silly Donations (Remake in progress, Least detections)
 https://www.roblox.com/games/15605594861/Silly-Donations
