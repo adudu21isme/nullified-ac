@@ -7,8 +7,6 @@ There are versions of this anti-cheat which contains different detections.
 
 **All detections of the anti-cheat may not be listed.**
 
-**⚠️Crash upon detection, if it takes longer than 1 second then it may let the server know the user is cheating.**
-
 # Listed games (not all are listed):
 ## Push A Friend (Most Detections)
 https://www.roblox.com/games/17276569867/Push-a-Friend-2-Player-Obby
