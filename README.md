@@ -1,4 +1,5 @@
 # Nullified-AC (created by adudu21)
+# An anticheat bypass will be patched soon.
 ## Client and serversided anti-cheat for roblox games.
 
 There are versions of this anti-cheat which contains different detections.
