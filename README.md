@@ -8,7 +8,7 @@ There are versions of this anti-cheat which contains different detections.
 **All detections of the anti-cheat may not be listed.**
 
 # Listed games (not all are listed):
-## Push A Friend (Most Detections)
+## Push A Friend (Most Detections, currently latest version)
 https://www.roblox.com/games/17276569867/Push-a-Friend-2-Player-Obby
 
 ![Icon Of Roblox Game Called Push A Friend made by VMW Studios](https://github.com/user-attachments/assets/a90f6b24-a34e-468c-ac1a-bef334e868b5)
