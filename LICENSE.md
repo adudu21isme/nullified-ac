@@ -1,6 +1,6 @@
 Copyright (c) 2024-2025 adudu21
 
-Permission is hereby granted to any person to discuss about this Software, to those that are authorized to use this Software, you are subject to the following conditionss:
+Permission is hereby granted to any person to discuss about this Software, to those that are authorized to use this Software, you are subject to the following conditions:
 - The source code may not be copied, distributed, sublicensed, or sold without explicit permission from the copyright holder (adudu21)
 - You cannot claim ownership of the Software
 
