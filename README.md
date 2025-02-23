@@ -11,4 +11,4 @@ There are versions of this anti-cheat which contains different detections.
 
 Some games may use an outdated version of nullified anticheat or a newer version of it
 
-As writing this, https://www.roblox.com/games/17276569867/Push-a-Friend-2-Player-Obby has the latest version which has detections for: WalkSpeed, JumpPower, JumpHeight, Gravity, Swimming, Fly, CFrameFly, HipHeight, Noclip, PlatformStand, Float (part), Fling (object), Bad exploits, Instance randomizer, Anti-tamper with AC, Suspious console, PlayerGui Checker, Teleport (weaken because of how game works), Infinite Jump (IY), Btools (IY), Reset velocity
+If you have any questions or inquirys, contact me via the [![Discord](https://img.shields.io/badge/Discord-black.svg?logo=Discord&logoColor=white)](https://discord.gg/U7JstgHdyg) Server.
